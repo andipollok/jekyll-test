@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+test
+
+{{ site.title }}
